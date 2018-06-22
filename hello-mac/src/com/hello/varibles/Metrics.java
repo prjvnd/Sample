@@ -3,6 +3,7 @@ package com.hello.varibles;
 public enum Metrics {
 	cpu, 
 	memory,
-	network_upload
+	network_upload,
+	uptime
 
 }
